@@ -1,0 +1,16 @@
+﻿  CNEProjectServer.cpp
+C:\Users\aborr\OneDrive\Desktop\Full Sail\Computer Networks\2.1 Project - Phase 1\CNEProjectServer\CNEProjectServer\CNEProjectServer.cpp(163,3): warning C4091: 'typedef ': ignored on left of 'serverCode::User' when no variable is declared
+C:\Users\aborr\OneDrive\Desktop\Full Sail\Computer Networks\2.1 Project - Phase 1\CNEProjectServer\CNEProjectServer\CNEProjectServer.cpp(193,60): warning C4267: 'argument': conversion from 'size_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\aborr\OneDrive\Desktop\Full Sail\Computer Networks\2.1 Project - Phase 1\CNEProjectServer\CNEProjectServer\CNEProjectServer.cpp(234,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aborr\OneDrive\Desktop\Full Sail\Computer Networks\2.1 Project - Phase 1\CNEProjectServer\CNEProjectServer\CNEProjectServer.cpp(286,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aborr\OneDrive\Desktop\Full Sail\Computer Networks\2.1 Project - Phase 1\CNEProjectServer\CNEProjectServer\CNEProjectServer.cpp(305,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aborr\OneDrive\Desktop\Full Sail\Computer Networks\2.1 Project - Phase 1\CNEProjectServer\CNEProjectServer\CNEProjectServer.cpp(592,55): warning C4267: 'argument': conversion from 'size_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  CNEProjectServer.vcxproj -> C:\Users\aborr\OneDrive\Desktop\Full Sail\Computer Networks\2.1 Project - Phase 1\CNEProjectServer\Debug\CNEProjectServer.exe

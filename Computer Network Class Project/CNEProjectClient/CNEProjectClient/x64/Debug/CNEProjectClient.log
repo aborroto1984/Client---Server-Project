@@ -1,0 +1,4 @@
+﻿  Client.cpp
+Client.obj : error LNK2019: unresolved external symbol __imp_inet_addr referenced in function main
+Client.obj : error LNK2019: unresolved external symbol __imp_WSAStartup referenced in function main
+C:\Users\aborr\OneDrive\Desktop\Full Sail\Computer Networks\2.1 Project - Phase 1\CNEProjectClient\x64\Debug\CNEProjectClient.exe : fatal error LNK1120: 2 unresolved externals

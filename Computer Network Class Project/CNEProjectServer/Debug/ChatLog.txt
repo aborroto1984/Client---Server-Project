@@ -1,0 +1,12 @@
+noname>>> $register <Alfredo>
+SERVER>>> Alfredo has joined the chat.
+noname>>> $register <Pedro>
+SERVER>>> Pedro has joined the chat.
+Pedro>>> Hello
+Alfredo>>> Hi
+Alfredo>>> $getlist
+Alfredo>>> $
+Alfredo>>> $getlog
+Alfredo>>> $exit
+SERVER>>> Alfredo has left the chat.
+SERVER>>> Pedro has left the chat.
